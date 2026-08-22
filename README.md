@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hey,%20I'm%20Sudharshan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Backend%20%26%20DSA%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hey%2C%20I%20am%20Sudharshan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Backend%20%26%20DSA%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+strong+CS+fundamentals+%F0%9F%93%9A;Solving+DSA+problems+daily+%F0%9F%A7%A9;Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Internships+%26+SDE+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 
